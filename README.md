@@ -3,7 +3,7 @@
 EnsoulSharp - General dependencies
 
 Previous Discord already got banned (both Admin & EnsoulSharp group)
-New Admin Discord account: Action#2713
+My Discord: Action#2713
 My Discord Server: https://discord.gg/RcNJ5jf
 
 Contact info:
