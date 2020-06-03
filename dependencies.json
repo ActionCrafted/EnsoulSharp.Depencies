@@ -1,0 +1,52 @@
+{
+  "System": {
+    "System\\EnsoulSharp.Sandbox.dll": {
+      "MD5": "f2f1d2e6b1ed594defeee1537cd48962",
+      "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/System/EnsoulSharp.Sandbox.dll",
+      "Version": "1.0.0.22"
+    },
+    "System\\EnsoulSharp.SDK.dll": {
+      "MD5": "31b7ad72e3ccdfced14b4adc7973d698",
+      "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/System/EnsoulSharp.SDK.dll",
+      "Version": "1.0.0.0"
+    },
+    "System\\Newtonsoft.Json.dll": {
+      "MD5": "e233104355c8eaef59edda0c53915520",
+      "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/System/Newtonsoft.Json.dll",
+      "Version": "6.0.0.0"
+    },
+    "System\\SharpDX.Direct3D9.dll": {
+      "MD5": "b64939d8f4e6658d90ad9c344994553b",
+      "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/System/SharpDX.Direct3D9.dll",
+      "Version": "2.6.3.0"
+    },
+    "System\\SharpDX.dll": {
+      "MD5": "9e2ae61790b003ce712fd7e436be0c49",
+      "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/System/SharpDX.dll",
+      "Version": "2.6.3.0"
+    }
+  },
+  "Core": {
+    "02cd5fc2543228345437e62d6ac9d9f9": {
+      "Files": {
+        "System\\EnsoulSharp.Core.dll": {
+          "MD5": "66d3a7345a2acfe1b8d33687722e5cd2",
+          "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/Core/10.11/EnsoulSharp.Core.dll"
+        },
+        "System\\EnsoulSharp.Wrapper.dll": {
+          "MD5": "c93f8b2bee7aa3b47324fcc53336a69c",
+          "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/Core/10.11/EnsoulSharp.Wrapper.dll",
+          "Version": "1.0.0.0"
+        },
+        "System\\EnsoulSharp.Bootstrap.dll": {
+          "MD5": "fb1635dcdc9a8551cdde151b6d52e50b",
+          "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/Core/10.11/EnsoulSharp.Bootstrap.dll"
+        }
+      }
+    }
+  },
+  "Loader": {
+    "Version": "1.0.0.24",
+    "Download": "https://github.com/ensoulsharp-io/EnsoulSharp.Dependencies/raw/master/Loader/EnsoulSharp-update.exe"
+  }
+}
